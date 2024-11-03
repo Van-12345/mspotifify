@@ -1,0 +1,34 @@
+/* TrackItem.module.css */
+.track {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .albumImage {
+    width: 60px;
+    height: 60px;
+    border-radius: 4px;
+    margin-right: 15px;
+  }
+  
+  .trackInfo {
+    flex: 1;
+  }
+  
+  .trackName {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .trackArtist {
+    color: #777;
+  }
+  
+  .trackAudio {
+    margin-left: 20px;
+  }
+  
